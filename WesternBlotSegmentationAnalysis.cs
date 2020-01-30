@@ -23,10 +23,10 @@ namespace OpenCVForUnityExample
         void Update ()
         {
 			Texture2D imgTexture = Resources.Load ("vcl_kd_WITH_LOADING_CONTROL") as Texture2D;
-            Mat imgMat = new Mat (imgTexture.height, imgTexture.width, CvType.CV_8UC3);
-            Utils.texture2DToMat (imgTexture, imgMat);
+            		Mat imgMat = new Mat (imgTexture.height, imgTexture.width, CvType.CV_8UC3);
+            		Utils.texture2DToMat (imgTexture, imgMat);
 			Mat grayMat = new Mat (imgTexture.height, imgTexture.width, CvType.CV_8UC3);
-            Imgproc.cvtColor (imgMat, grayMat, Imgproc.COLOR_RGB2GRAY); //grayscale 
+            		Imgproc.cvtColor (imgMat, grayMat, Imgproc.COLOR_RGB2GRAY); //grayscale 
 			Mat gray2Mat = new Mat (imgTexture.height, imgTexture.width, CvType.CV_8UC3);
 			Core.bitwise_not (grayMat, gray2Mat); 	
 			Mat gray3Mat = new Mat (imgTexture.height, imgTexture.width, CvType.CV_8UC3);
