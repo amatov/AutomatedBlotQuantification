@@ -1,2 +1,2 @@
 #####  **WesternBlotQuantification**
-######  function does automated quantification of western blots by area segmentation of blots of interest and reference blots  
+######  Function does automated quantification of western blots by area segmentation of blots of interest and reference blots.
