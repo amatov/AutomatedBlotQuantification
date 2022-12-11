@@ -1,4 +1,4 @@
-// Alexandre Matov & Nick Mihaylov, 2013﻿
+// Nick Mihaylov & Alexandre Matov, 2013﻿
 import java.awt.Dialog;
 import java.awt.Panel;
 import java.awt.Image;
