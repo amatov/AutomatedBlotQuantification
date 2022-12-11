@@ -1,3 +1,4 @@
+// Alexandre Matov & Nick Mihaylov, 2013﻿
 import java.awt.Dialog;
 import java.awt.Panel;
 import java.awt.Image;
