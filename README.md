@@ -1,4 +1,4 @@
 #####  **WesternBlotQuantification**
-###### Unity engine C# function does automated quantification of western blots by area segmentation of blots of interest and reference blots.
+###### The Unity Technologies game engine C# function does automated quantification of western blots by area segmentation of blots of interest compared to reference blots.
 ###### **JBlots**
-###### ImageJ Java plug-in does automated quantification of western blots by area segmentation of blots of interest and reference blots (see .png screenshot).
+###### The ImageJ Java plug-in does automated quantification of western blots by area segmentation of blots of interest compared to reference blots (see .png screenshot).
