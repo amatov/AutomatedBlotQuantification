@@ -1,6 +1,6 @@
 ## AutomatedBlotQuantification
 
-Western Blot Quantification: the Unity Technologies game engine C# function I wrote does automated quantification of western blots by area segmentation of blots of interest compared to reference blots.
+I wrote C# code for the Unity game engine that automatically quantifies western blots, segmenting the area of each blot of interest and comparing it to a reference blot.
 
 ## Quick start
 
