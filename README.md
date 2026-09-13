@@ -1,5 +1,7 @@
 ## AutomatedBlotQuantification
 
+Western Blot Quantification: the Unity Technologies game engine C# function I wrote does automated quantification of western blots by area segmentation of blots of interest compared to reference blots.
+
 ## Quick start
 
 This repository implements automated quantification of western blots
@@ -17,6 +19,6 @@ Unity requirements.
 
 ## About
 
- Western Blot Quantification - the Unity Technologies game engine C# function I wrote does automated quantification of western blots by area segmentation of blots of interest compared to reference blots
-JBlotQuant - the ImageJ Java plug-in, Nik Mihaylov wrote under my guidance based on the algorithmic steps I designed, does automated quantification of western blots by area segmentation of blots of interest compared to reference blots (see the PNG screenshot)
+My work on JBlotQuant, the ImageJ Java plug-in Nik Mihaylov wrote under my guidance based on the algorithmic steps I designed (see the PNG screenshot).
+
 For detailed information, see: https://www.researchgate.net/publication/382593670_Quantitative_Video_Microscopy_in_Medicine
