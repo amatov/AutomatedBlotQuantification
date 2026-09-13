@@ -1,4 +1,4 @@
-## AutomatedBlotQuantification
+## Automated Blot Quantification
 
 Code I wrote for two implementations of the same automated western blot quantification method: Western Blot Quantification (Unity/C#) and JBlotQuant (ImageJ).
 
