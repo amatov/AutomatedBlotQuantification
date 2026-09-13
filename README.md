@@ -4,11 +4,8 @@ Code I wrote for two independent implementations of the same automated western b
 
 ## Quick start
 
-This repository contains two independent implementations of the same
-automated western blot quantification method, by area segmentation:
-Western Blot Quantification (Unity/C#) and JBlotQuant (ImageJ). See
-[DEPENDENCIES.md](DEPENDENCIES.md) for the ImageJ and Unity/OpenCV for
-Unity requirements.
+See [DEPENDENCIES.md](DEPENDENCIES.md) for the ImageJ and Unity/OpenCV
+for Unity requirements.
 
 ## Repository contents
 
@@ -21,6 +18,6 @@ Unity requirements.
 
 ## About
 
-Western Blot Quantification, the C# code I wrote for the Unity game engine, and JBlotQuant, the ImageJ Java plug-in Nik Mihaylov wrote under my guidance based on the algorithmic steps I designed, both perform automated quantification of western blots by area segmentation of blots of interest compared to reference blots (see the PNG screenshot in [`media/`](media/)).
+Western Blot Quantification is the C# code I wrote for the Unity game engine; JBlotQuant is the ImageJ Java plug-in Nik Mihaylov wrote under my guidance based on the algorithmic steps I designed (see the PNG screenshot in [`media/`](media/)).
 
 For detailed information, see: https://www.researchgate.net/publication/382593670_Quantitative_Video_Microscopy_in_Medicine
