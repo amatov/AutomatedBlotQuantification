@@ -18,6 +18,6 @@ for Unity requirements.
 
 ## About
 
-Western Blot Quantification is the C# code I wrote for the Unity game engine; JBlotQuant is the ImageJ Java plug-in Nik Mihaylov wrote under my guidance based on the algorithmic steps I designed (see the PNG screenshot in [`media/`](media/)).
+Western Blot Quantification is the C# code I wrote for the Unity game engine; JBlotQuant is the ImageJ Java plug-in Nik Mihaylov wrote under my guidance based on the algorithmic steps I designed (see a screenshot showing the software functionality in [`media/`](media/)).
 
 For detailed information, see: https://www.researchgate.net/publication/382593670_Quantitative_Video_Microscopy_in_Medicine
