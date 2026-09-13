@@ -1,3 +1,5 @@
+## AutomatedBlotQuantification
+
 ## Quick start
 
 This repository implements automated quantification of western blots
@@ -10,7 +12,7 @@ Unity requirements.
 - `JBlots.java`, `j_blots.jar` -- the ImageJ plugin (source and
   compiled build).
 - `WesternBlotSegmentationAnalysis.cs` -- the Unity C# function.
-- `media/` -- an example screenshot.
+- [`media/`](media/) -- an example screenshot.
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
 ## About
